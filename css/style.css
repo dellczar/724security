@@ -247,7 +247,7 @@ ul { list-style: none; }
   align-items: center;
   background:
     linear-gradient(rgba(26,10,4,.78), rgba(26,10,4,.88)),
-    url('../images/hero-bg.jpg') center top / cover no-repeat,
+    url('img1.png') center top / cover no-repeat,
     linear-gradient(135deg, #1a0a04 0%, #2e0d05 55%, #1a0a04 100%);
   overflow: hidden;
 }
